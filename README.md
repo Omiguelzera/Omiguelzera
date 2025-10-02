@@ -60,5 +60,5 @@ Minha jornada começou em 2017 na UMC, onde iniciei meus estudos em **TI**. Desd
 
 Se quiser trocar ideias sobre desenvolvimento, automação, arquitetura de software ou oportunidades:
 
-📩 **[miguelg.santos.dev@gmail.com](mailto:miguelg.santos.dev@gmail.com)**
+📩 **[miguelgsantos98@gmail.com](mailto:miguelgsantos98@gmail.com)**
 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-goncalves-santos/)
